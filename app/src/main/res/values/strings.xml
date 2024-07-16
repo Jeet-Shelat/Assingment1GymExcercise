@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assinngment 1 Gym Excercise</string>
+    <string-array name="excersice_array">
+        <item>Select an excersice</item>
+        <item>Cardio Exercises</item>
+        <item>Strength Training Exercises</item>
+        <item> Flexibility and Stretching Exercises</item>
+        <item>Functional Training Exercises</item>
+        <item>Compound Exercises</item>
+        <item>Isolation Exercises</item>
+    </string-array>
+
+</resources>
